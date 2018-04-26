@@ -42,6 +42,17 @@ $ tree -I target
 ```
 
 
+# Testing
+
+If you fork this template noodle with it, here's how you can try it. 
+Assuming you've checked it out to a folder called `basic` and you've installed `g8` (e.g.,  via `brew install giter8` or similar), then run:
+
+```
+$ g8 file://basic`
+```
+
+...to run the template.
+
 # Template license
 Written in 2018 by Richard Dallaway
 

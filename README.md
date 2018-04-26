@@ -1,4 +1,4 @@
-# A [Giter8][g8] template my Scala development.
+# A [Giter8][g8] template for my own Scala development.
 
 # Usage
 

@@ -1,5 +1,7 @@
 # A [Giter8][g8] template for my own Scala development.
 
+See the [src/main/g8/build.sbt](https://github.com/d6y/basic.g8/blob/master/src/main/g8/build.sbt) for the dependencies I've included.
+
 # Usage
 
 ```

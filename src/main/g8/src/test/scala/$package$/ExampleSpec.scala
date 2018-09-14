@@ -16,4 +16,3 @@ class ExampleSpec extends Spec {
     }
   }
 }
-

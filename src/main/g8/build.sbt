@@ -17,11 +17,11 @@ lazy val scalacheck = Seq(
   "org.scalacheck" %% "scalacheck" % "1.14.0" % "test"
 )
 
-lazy val fs2 = Seq("co.fs2" %% "fs2-core" % "0.10.1")
+lazy val fs2 = Seq("co.fs2" %% "fs2-core" % "0.10.6")
 
 lazy val cats = Seq(
-  "org.typelevel" %% "cats-core" % "1.0.1",
-  "org.typelevel" %% "cats-effect" % "0.8"
+  "org.typelevel" %% "cats-core" % "1.4.0",
+  "org.typelevel" %% "cats-effect" % "1.0.0"
 )
 
 // Picked from https://tpolecat.github.io/2017/04/25/scalac-flags.html
